@@ -1,3 +1,4 @@
+--- # -----------------
 #
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
@@ -8,7 +9,6 @@
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
 # English (default)
-# -----------------
 en: &DEFAULT_EN
   nav:
     - title: "Services"
@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "LinkedIn"
+      url: https://www.linkedin.com/company/quantisland
 en-US:
   <<: *DEFAULT_EN
 en-CA:

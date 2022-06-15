@@ -1,3 +1,4 @@
+--- # -----------------
 #
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
@@ -8,11 +9,10 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
-# -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Quantitative Finance and Web3 Consulting
+    text: Quant Island
     button: Tell Me More
     buttonlink: "#services"
 
