@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Quantitative Finance and Web3 Consulting
     text: By Marco Marchioro
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Contact Us
+    buttonlink: "#contact"
 
   services:
     title: "Services"
@@ -137,8 +137,8 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    phone: "Telegram*"
+    phone-validation: "Please enter your Telegram handle (e.g. @defi_quant)."
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
