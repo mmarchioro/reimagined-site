@@ -12,24 +12,24 @@
 en: &DEFAULT_EN
   header:
     title: Quantitative Finance and Web3 Consulting
-    text: By Marco Marchioro
+    text: Quantitative Audit
     button: Contact Us
     buttonlink: "#contact"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Quantitative Due Diligence (Audit)"
+    text: "The independent processes performed to ascertain how well a company is doing with respect to quantitative finance matters."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "For Venture Capitalist"
+        desc: "To better gauge the value of a startup before a round of investment"
+        icon: fas fa-user-tie #find more at https://fontawesome.com/icons
+      - title: "For Startups"
+        desc: "To better understand their strength and weaknesses, or to prove their value to investors."
+        icon: fas fa-user-ninja
+      - title: "For Web3 companies"
+        desc: "To prove to their clients and investors that the company is properly dealing with their quantitative matters"
+        icon: fas fa-link
 
   portfolio:
     title: "Portfolio"
