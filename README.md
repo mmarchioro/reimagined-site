@@ -16,6 +16,14 @@ If you want your website to be at `YOUR-USERNAME.github.io`, that's what you mus
 
 ### Development run 
 
+The actual theme code [can be found here](https://github.com/raviriley/agency-jekyll-theme)
+
 ```
 bundle exec jekyll serve --trace --watch --livereload --strict_front_matter
+```
+
+If you get some eeror about `webrick`, try the following
+
+```
+bundle add webrick
 ```
