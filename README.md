@@ -27,3 +27,18 @@ If you get some eeror about `webrick`, try the following
 ```
 bundle add webrick
 ```
+
+If you only need to build the theme
+
+```
+bundle exec jekyll build 
+```
+
+### Notes for github
+
+```
+git config user.email "10060602+mmarchioro@users.noreply.github.com"
+
+git commit --amend --reset-author     
+```
+
