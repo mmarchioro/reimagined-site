@@ -11,33 +11,35 @@
 # English (default)
 en: &DEFAULT_EN
   header:
-    title: Unleash the power of math with
+    title: Unleash the combined power of human experience and AI
     text: Quant Consulting
     body: >
-      From strategic support for building an analytics practice, over short projects focused on specific activities, 
-      to the full integration of analytics-based KPI into your IT systems – we provide solutions based on a detailed 
-      understanding of your business situation.
+      Merging expertise in traditional quantitative finance and AI applied to web3/blockchain technologies. 
+      From strategic support when investing in a web3 company, 
+      over short projects focused on specific activities, 
+      to the full creation of Quantitative/AI analytics for your systems 
+      –-- we provide solutions based on a detailed understanding of your business situation.
     button: Contact Us
     buttonlink: "#contact"
 
   services:
-    title: "Who can benefit?"
+    title: "Services"
     text: "The independent processes performed to ascertain how well a company is doing with respect to quantitative finance matters."
     section: services
     list:
       - title: "For Venture Capitalists"
-        desc: "To better gauge the value of a startup before a round of investment"
         icon: fas fa-user-tie #find more at https://fontawesome.com/icons
+        desc: "To better gauge the value of a startup before a round of investment"
       - title: "For Startups"
-        desc: "To better understand their strength and weaknesses, or to prove their value to investors."
         icon: fas fa-user-ninja
+        desc: "To better understand their strength and weaknesses, or to prove their value to investors."
       - title: "For Web3 companies"
-        desc: "To prove to their clients and investors that the company is properly dealing with their quantitative matters"
         icon: fas fa-link
+        desc: "To prove to their clients and investors that the company is properly dealing with their quantitative matters"
 
   about:
-    title: "About Us (Real)"
-    text: "our story"
+    title: "About Us"
+    text: "This is who we are"
     body: >
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
       ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
