@@ -24,24 +24,38 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "The independent processes performed to ascertain how well a company is doing with respect to quantitative finance matters."
+    text: "Our Mission is to provide assistance with quantitative methods, modern computer science techniques, and web3 technologies"
     section: services
     list:
       - title: "For Venture Capitalists"
         icon: fas fa-user-tie #find more at https://fontawesome.com/icons
-        desc: "To better gauge the value of a startup before a round of investment"
+        desc: >
+          We offer a *Quantitative Due Diligence* process to better gauge the value of a startup before a round of investment. 
+          This *independent* action is performed to ascertain how well a company is doing with respect to quantitative 
+          matters. For web3 companies both the tokenomics and the smart contracts are revised
       - title: "For Startups"
         icon: fas fa-user-ninja
-        desc: "To better understand their strength and weaknesses, or to prove their value to investors."
+        desc: >
+          We work with enthusiastic brand-new companies and help them accelerate their growth. 
+          We help to set up, or revise, the processes of creating and deploying existing or new models 
+          from the prototype stage to the production environment. For web3 startups we assist in the creation
+          of a sustainable tokenomics, gauging if non-fungible tokens are a viable option to meet their goals
       - title: "For Web3 companies"
         icon: fas fa-link
-        desc: "To prove to their clients and investors that the company is properly dealing with their quantitative matters"
+        desc: >
+          We also deliver our services to succesfull companies in the web3 world. We audit smart contracts 
+          from the quantitative point of view. 
+          We provide independent *model validation* 
+          Also, we help them in setting up a risk-management system that keeps into consideration the extreme volatility 
+          of this market niche.
 
   about:
     title: "About Us"
-    text: "This is who we are"
+    text: "We’ve spent years working as quants, building a reputation as an industry leader in solving problems using quatitative methods"
     body: >
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
+      ## This is a section
+
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
       ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
       ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
