@@ -43,3 +43,10 @@ formspree_form_path: "f/xnqwrygw"
 
 plugins:
   - jekyll-remote-theme
+
+# Location of pdf files
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+      image: false

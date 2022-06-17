@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "LinkedIn"
-      url: https://www.linkedin.com/company/quantisland
+    - title: "CV"
+      url: "curriculum"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

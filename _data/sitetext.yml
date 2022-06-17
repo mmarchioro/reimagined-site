@@ -181,7 +181,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Custom Privacy Policy"
     social:
       - url: https://www.linkedin.com/in/marchioro/
         icon: "fab fa-linkedin-in"
@@ -191,7 +191,7 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://medium.com/@quantisland
         icon: "fab fa-medium"
-      - url: "/assets/Marco-Marchioro-Curriculum-Vitae.pdf"
+      - url: "assets/pdf/Marco-Marchioro-Curriculum-Vitae.pdf"
         icon: "fa fa-book"
 en-US:
   <<: *DEFAULT_EN
