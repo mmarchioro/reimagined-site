@@ -17,7 +17,7 @@ remote_theme: mmarchioro/agency-jekyll-theme
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/site" # the subpath of your site, e.g. /blog
 
-title: Quant Island Website
+title: Quant Island
 email: qisiteforms@quantisland.com #this is also the email contact forms will go to
 description: "Quantitative Finance services for Venture Capitalists and Web3 Startups"
 author: Marco Marchioro
