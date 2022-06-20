@@ -23,25 +23,25 @@ en: &DEFAULT_EN
     buttonlink: "#contact"
 
   services:
-    title: "Services"
+    title: "Our Customers"
     text: "Our Mission is to provide assistance with quantitative methods, modern computer science techniques, and web3 technologies"
     section: services
     list:
-      - title: "For Venture Capitalists"
+      - title: "Venture Capitalists"
         icon: fas fa-user-tie #find more at https://fontawesome.com/icons
         desc: >
           We offer a *Quantitative Due Diligence* process to better gauge the value of a startup before a round of investment. 
           This *independent* action is performed to ascertain how well a company is doing with respect to quantitative 
           matters. For web3 companies both the tokenomics and the smart contracts are revised. When possible, 
           an estimation of the company tokens is attampted
-      - title: "For Startups"
+      - title: "Startups"
         icon: fas fa-user-ninja
         desc: >
           We work with enthusiastic brand-new companies and help them accelerate their growth. 
           We help to set up, or revise, the processes of creating and deploying existing or new models 
           from the prototype stage to the production environment. For web3 startups we assist in the creation
           of a sustainable tokenomics, gauging if non-fungible tokens are a viable option to meet their goals
-      - title: "For Web3 companies"
+      - title: "Web3 companies"
         icon: fas fa-link
         desc: >
           We also deliver our services to succesfull companies in the web3 world. We audit smart contracts 
@@ -113,20 +113,20 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      # - title: "envato"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/envato.jpg
+      # - title: "designmodo"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/designmodo.jpg
+      # - title: "themeforest"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/themeforest.jpg
+      # - title: "Creative Market"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
