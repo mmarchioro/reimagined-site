@@ -23,8 +23,8 @@ en: &DEFAULT_EN
     buttonlink: "#contact"
 
   services:
-    title: "Our Customers"
-    text: "Our Mission is to provide assistance with quantitative methods, modern computer science techniques, and web3 technologies"
+    title: "Our Clients"
+    text: "We are a client-first company. We provide assistance with quantitative methods, modern AI techniques, and web3 technologies"
     section: services
     list:
       - title: "Venture Capitalists"
@@ -33,22 +33,22 @@ en: &DEFAULT_EN
           We offer a *Quantitative Due Diligence* process to better gauge the value of a startup before a round of investment. 
           This *independent* action is performed to ascertain how well a company is doing with respect to quantitative 
           matters. For web3 companies both the tokenomics and the smart contracts are revised. When possible, 
-          an estimation of the company tokens is attampted
+          an estimation of the company tokens is attempted
       - title: "Startups"
         icon: fas fa-user-ninja
         desc: >
           We work with enthusiastic brand-new companies and help them accelerate their growth. 
           We help to set up, or revise, the processes of creating and deploying existing or new models 
           from the prototype stage to the production environment. For web3 startups we assist in the creation
-          of a sustainable tokenomics, gauging if non-fungible tokens are a viable option to meet their goals
+          of a sustainable tokenomics, gauging the usage pf fungible and non-fungible tokens
       - title: "Web3 companies"
         icon: fas fa-link
         desc: >
-          We also deliver our services to succesfull companies in the web3 world. We audit smart contracts 
-          from the quantitative point of view. 
-          We provide independent *model validation* 
-          Also, we help them in setting up a risk-management system that keeps into consideration the extreme volatility 
-          of this market niche.
+          For succesfull companies in the web3 world we provide *model validation* and audit smart contracts 
+          (especially on the Algorand blockchain). We were involved in DeFi before it was cool and we are in
+          a unique position to look ahead to the next big thing.
+          We also help them in setting up a risk-management systems that keeps into consideration the extreme 
+          volatility of this market niche.
 
   about:
     title: "About Us"
