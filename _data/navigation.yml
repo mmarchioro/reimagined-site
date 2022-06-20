@@ -11,15 +11,15 @@
 # English (default)
 en: &DEFAULT_EN
   nav:
-    - title: "Our Clients"
+    - title: "Clients"
       section: services
-    - title: "Portfolio"
+    - title: "Services"
       section: portfolio
-    - title: "About"
+    - title: "Diligence"
       section: about
-    - title: "Timeline"
+    - title: "History"
       section: timeline
-    - title: "Partners"
+    - title: "About"
       section: team
     - title: "Contact"
       section: contact
