@@ -89,33 +89,26 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Before we were born"
-        year: "Before 2013"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "QuantLib Involvment"
+        year: "2000"
+        desc: "The first e-mail announcing QuantLib was sent on December 11, 2000, signed by Ferdinando Ametrano, Luigi Ballabio and *Marco Marchioro*"
+        image: assets/img/timeline/1-quantlib-Q.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "June 2013"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "The StatPro Years"
+        year: "2000-2013"
+        desc: "Marco covers research and development roles in StatPro, mostly working on the quantitative side of the risk engine"
+        image: assets/img/timeline/2-statpro.jpg
         alt:
-      - title: "Switch to Web3"
-        year: "2018-2021"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Quant Island is born"
+        year: "2013"
+        desc: "Marco Marchioro creates Quant Island Pte. Ltd., bringing quantitative finance to Singapore and South-East Asia. Consulting is extend to Hong Kong and Vietnam"
+        image: assets/img/timeline/3-quantisland.png
         alt: image alt text
-      - title: "Trading Algos"
-        year: "2021-2022"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Algorand and Blockchain"
+        year: "2018-present"
+        desc: "Marco meets Silvio Micali in Singapore and soon after participates at the Algorand testnet. The main consulting works are shifted to blockchain, DeFi  and Web3 technologies"
+        image: assets/img/timeline/4-algorand.png
         alt: image alt text
-      - title: "Title"
-        year: "From 2022 on"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
     end: "Be Part <br> of Our <br> Story!"
 
   clients:
