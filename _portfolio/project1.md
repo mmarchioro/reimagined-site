@@ -2,7 +2,7 @@
 title: Quantitative Due Diligence
 subtitle: An independent company evaluation with respect to quantitative (finance) matters.
 image: assets/img/portfolio/01-diligence-full.png
-alt: Shirts on a hanger
+alt: A far-west diligence
 
 caption:
   title: Diligence

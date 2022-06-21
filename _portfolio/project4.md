@@ -1,13 +1,16 @@
 ---
 title: Model Validation
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: From statistics to machine learning
 image: assets/img/portfolio/04-validation-full.jpg
-alt: 
+alt: The cogs of a very complicated mechanism
 
 caption:
   title: Validation
   subtitle: From statistics to machine learning
   thumbnail: assets/img/portfolio/04-validation-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+# Work in progress
+
+We are currently revising this website. Please be patient and come back in a few days.
 

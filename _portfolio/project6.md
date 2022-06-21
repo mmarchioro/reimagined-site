@@ -1,6 +1,6 @@
 ---
 title: Risk Evaluation
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Understand if and when is too large
 image: assets/img/portfolio/06-risk-full.jpg
 alt: 
 
@@ -9,5 +9,9 @@ caption:
   subtitle: Understand if and when is too large
   thumbnail: assets/img/portfolio/06-risk-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+# Work in progress
+
+We are currently revising this website. Please be patient and come back in a few days.
+
 
