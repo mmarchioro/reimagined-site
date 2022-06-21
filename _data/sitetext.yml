@@ -150,6 +150,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://medium.com/@quantisland
             icon: fab fab fa-medium
+          - url: https://discordapp.com/users/quantisland#1903
+            icon: fab fa-discord
           - url: https://twitter.com/marchioro_marco
             icon: fab fa-twitter
       - name: "Cesare Tagliaferri"
@@ -197,8 +199,8 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://medium.com/@quantisland
         icon: "fab fa-medium"
-      - url: "assets/pdf/Marco-Marchioro-Curriculum-Vitae.pdf"
-        icon: "fa fa-book"
+      - url: https://discordapp.com/users/quantisland#1903
+        icon: fab fa-discord
 en-US:
   <<: *DEFAULT_EN
 en-CA:
