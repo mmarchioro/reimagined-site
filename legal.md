@@ -39,4 +39,4 @@ For more information about our privacy practices or if you have questions, pleas
 
 **PHOTOS AND IMAGES**
 
-Note that many pictures of these website were freely taken from [Pixabay](https://pixabay.com)
+Note that many pictures of this website were freely taken from [Pixabay](https://pixabay.com)
