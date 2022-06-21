@@ -52,27 +52,42 @@ en: &DEFAULT_EN
 
   about:
     title: "Due Diligence"
-    text: "We’ve spent years working as quants, building a reputation as an industry leader in solving problems using quatitative methods"
+    text: >
+      Of all our services, the *quantitative investigation carried out with due Diligence* is defnitely the most popular
     body: >
-      ## This is a section
+      ## What is the Quantitative Due Diligence?
 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
-      ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
-      ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
+      This process is the *voluntary* and *independent* procedure performed to ascertain how well a company, 
+      usually a startup, is doing with respect to quantitative (finance) matters. Depending on the scale of the
+      project, the *due diligence* may last from one day to several weeks.
 
-      ## This is a section
+      ## Main areas of the assessment
 
-      ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
-      ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
-      ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.  
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis 
-      ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+      Review of the quantitative models currently used by the company.
+      Revision of the data pipeline that transforms the raw input data into the model outputs. 
+      (This includes the handling of data cleaning and outlier detection, the pre-processing phase, the model training and its model evaluation.)
+      Gauge the processes of creating/deploying existing or new models from the prototype stage to the production environment.
+      Consider what is the impact of the market volatility on the the company revenues. 
+      Meet the research-and-development team, in order to identify if and what are the missing human resources, 
+      how to improve the team dynamics, or what kind of quantitative training may benefit the team.
+      Interview new high-level candidates to be hired for key quantitative roles
+
+      ## For web3/crypto companies
+
+      Review the tokenomics. 
+      Advise on which blockchain(s) launch the project.
+      Help to optimize the time-to-market of token operations.
+      Review and investigate the use non-fungible tokens (NFTs).
+      Help the team to find/improve the token utility, in order to increase its value.
+      Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
+      Review the company token offering on both centralized and decentralized exchanges.
+      Consider new ways of improving the tokenmics.
+      Evaluate what is the impact of using oracles (being them implicit or explicit) on the smart contracts.
+      Assess the quantitative vulnerabilities, such as an arbitrage attacks.
+      Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
 
 
-      Note that the pictures are taken from [Pixabay](https://pixabay.com)
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">For more Info</a>
 
     section: about
 
