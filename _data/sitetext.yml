@@ -139,7 +139,10 @@ en: &DEFAULT_EN
   team:
     title: "About us"
     text: "We’ve spent years working as quants, building a reputation as an industry leader in solving problems using quatitative methods"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: >
+      While the main consultant for Quant Island is only one, namely *Marco Marchioro*, often the job requires the help 
+      of experienced professionals in other fields. Since *no man is an island* (quotation pun intended), the rich network 
+      of professionals around Quant Island is consequential to obtain the best results for clients
     section: team
     people:
       - name: "Marco Marchioro"
@@ -155,7 +158,7 @@ en: &DEFAULT_EN
           - url: https://twitter.com/marchioro_marco
             icon: fab fa-twitter
       - name: "Cesare Tagliaferri"
-        role: "Technical Advisor"
+        role: "External Technical Advisor"
         image: assets/img/team/cesare.jpg
         social:
           - url: https://www.linkedin.com/in/tagliaferri/
@@ -165,7 +168,7 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/taglia
             icon: fab fa-facebook-f
       - name: "Jacopo Quaglia"
-        role: "Networking Advisor"
+        role: "External Networking Advisor"
         image: assets/img/team/jacopo.jpg
         social:
           - url: https://www.linkedin.com/in/jacopoquaglia/
