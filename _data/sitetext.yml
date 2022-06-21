@@ -171,7 +171,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Quant Island is a Singapore-based remote-first company. (Starred items are required)"
+    text: "Quant Island is a Singapore-based remote-first company. (In the form below starred* items are required.)"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
