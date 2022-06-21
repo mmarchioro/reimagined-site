@@ -91,22 +91,33 @@ en: &DEFAULT_EN
     events:
       - title: "QuantLib Involvment"
         year: "2000"
-        desc: "The first e-mail announcing QuantLib was sent on December 11, 2000, signed by Ferdinando Ametrano, Luigi Ballabio and *Marco Marchioro*"
+        desc: >
+          The first e-mail announcing [QuantLib](https://en.wikipedia.org/wiki/QuantLib) was sent in 2000, 
+          signed by [Ferdinando Ametrano](https://ametrano.net), 
+          [Luigi Ballabio](http://www.implementingquantlib.com) 
+          and [Marco Marchioro](https://www.marchioro.org)
         image: assets/img/timeline/1-quantlib-Q.jpg
         alt:
       - title: "The StatPro Years"
         year: "2000-2013"
-        desc: "Marco covers research and development roles in StatPro, mostly working on the quantitative side of the risk engine"
+        desc: >
+          Marco covers research and development roles in [StatPro](https://www.confluence.com/statpro/), 
+          mostly working on the quantitative side of the risk and pricing engine
         image: assets/img/timeline/2-statpro.jpg
         alt:
       - title: "Quant Island is born"
         year: "2013"
-        desc: "Marco Marchioro creates Quant Island Pte. Ltd., bringing quantitative finance to Singapore and South-East Asia. Consulting is extend to Hong Kong and Vietnam"
+        desc: >
+          [Marco Marchioro](https://www.marchioro.org) creates Quant Island Pte. Ltd., bringing quantitative 
+          finance to Singapore and South-East Asia. Consulting is soon extend to Hong Kong and Vietnam
         image: assets/img/timeline/3-quantisland.png
         alt: image alt text
       - title: "Algorand and Blockchain"
         year: "2018-present"
-        desc: "Marco meets Silvio Micali in Singapore and soon after participates at the Algorand testnet. The main consulting works are shifted to blockchain, DeFi  and Web3 technologies"
+        desc: >
+          [Marco](https://www.marchioro.org) meets [Silvio (Micali)](https://en.wikipedia.org/wiki/Silvio_Micali) 
+          in Singapore and soon after participates in the deployment of the [Algorand](https://www.algorand.com) testnet. 
+          The main consulting works are shifted to blockchain, [DeFi](https://domani.finance) and Web3 technologies
         image: assets/img/timeline/4-algorand.png
         alt: image alt text
     end: "Be Part <br> of Our <br> Story!"
