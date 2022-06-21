@@ -211,7 +211,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Custom Privacy Policy"
+    legal: "Legalities and Privacy Policy"
     social:
       - url: https://www.linkedin.com/in/marchioro/
         icon: "fab fa-linkedin-in"
