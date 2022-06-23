@@ -153,7 +153,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/Quantisland.png
       - title: "Sinagpore Fintech Association"
         url: https://singaporefintech.org
-        logo: assets/img/clients/sfa-logo-web2.png
+        logo: assets/img/clients/SFA-logo-web2.png
 
   team:
     title: "About us"
