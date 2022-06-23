@@ -18,7 +18,7 @@ en: &DEFAULT_EN
       From strategic support when investing in a web3 company, 
       over short projects focused on specific activities, 
       to the full creation of Quantitative/AI analytics for your systems 
-      –-- we provide solutions based on a detailed understanding of your business situation.
+      –-- we provide solutions based on the detailed understanding of your business situation.
     button: Contact Us
     buttonlink: "#contact"
 
@@ -47,13 +47,13 @@ en: &DEFAULT_EN
           For succesfull companies in the web3 world we provide *model validation* and audit smart contracts 
           (especially on the Algorand blockchain). We were involved in DeFi before it was cool and we are in
           a unique position to look ahead to the next big thing.
-          We also help them in setting up a risk-management systems that keeps into consideration the extreme 
+          We can also help in setting up a risk-management systems that keeps into consideration the extreme 
           volatility of this market niche.
 
   about:
     title: "Due Diligence"
     text: >
-      Of all our services, the *quantitative investigation carried out with due Diligence* is defnitely the most popular
+      Of all our services, the "Quantitative investigation carried out with due diligence" is defnitely the most popular
     body: >
       ## What is the Quantitative Due Diligence?
 
@@ -61,30 +61,48 @@ en: &DEFAULT_EN
       usually a startup, is doing with respect to quantitative (finance) matters. Depending on the scale of the
       project, the *due diligence* may last from one day to several weeks.
 
-      ## Main areas of the assessment
 
-      Review of the quantitative models currently used by the company.
-      Revision of the data pipeline that transforms the raw input data into the model outputs. 
-      (This includes the handling of data cleaning and outlier detection, the pre-processing phase, the model training and its model evaluation.)
-      Gauge the processes of creating/deploying existing or new models from the prototype stage to the production environment.
-      Consider what is the impact of the market volatility on the the company revenues. 
-      Meet the research-and-development team, in order to identify if and what are the missing human resources, 
+      ### Main areas of the assessment
+
+      - Review of the quantitative models currently used by the company.
+
+      - Revision of the data pipeline that transforms the raw input data into the model outputs. 
+      (This includes the handling of data cleaning and outlier detection, the pre-processing phase, the model training and its evaluation.)
+
+      - Gauge the processes of creating/deploying existing or new models from the prototype stage to the production environment.
+
+      - Consider what is the impact of the market volatility on the the company revenues. 
+
+      - Meet the research-and-development team, in order to identify if and what are the missing human resources, 
       how to improve the team dynamics, or what kind of quantitative training may benefit the team.
-      Interview new high-level candidates to be hired for key quantitative roles
 
-      ## For web3/crypto companies
+      - Interview new high-level candidates to be hired for key quantitative roles
 
-      Review the tokenomics. 
-      Advise on which blockchain(s) launch the project.
-      Help to optimize the time-to-market of token operations.
-      Review and investigate the use non-fungible tokens (NFTs).
-      Help the team to find/improve the token utility, in order to increase its value.
-      Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
-      Review the company token offering on both centralized and decentralized exchanges.
-      Consider new ways of improving the tokenmics.
-      Evaluate what is the impact of using oracles (being them implicit or explicit) on the smart contracts.
-      Assess the quantitative vulnerabilities, such as an arbitrage attacks.
-      Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
+
+
+      ### For web3/crypto companies
+
+      - Review the tokenomics. 
+
+      - Advise on which blockchain(s) launch the project.
+
+      - Help to optimize the time-to-market of token operations.
+
+      - Review and investigate the use non-fungible tokens (NFTs).
+
+      - Help the team to find/improve the token utility, in order to increase its value.
+
+      - Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
+
+      - Review the company token offering on both centralized and decentralized exchanges.
+
+      - Consider new ways of improving the tokenomics.
+
+      - Evaluate what is the impact of using oracles (being them implicit or explicit) on the smart contracts.
+
+      - Assess the quantitative vulnerabilities, such as an arbitrage attacks.
+
+      - Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
 
 
       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">For more Info</a>
