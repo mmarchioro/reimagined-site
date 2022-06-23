@@ -40,6 +40,7 @@ We may update this privacy policy from time to time for personal, operational, l
 - The website is hosted on [GitHub pages](https://pages.github.com)
 - The contact form functionality is powered by [Formspree](https://formspree.io/)
 - Some of this website pictures were freely, i.e. properly licensed without payment, taken from [Pixabay](https://pixabay.com)
+- The source code of this website is available on [my GitHub page](https://github.com/mmarchioro/reimagined-site)
 
 **CONTACT US**
 
