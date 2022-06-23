@@ -147,7 +147,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/Domani.png
       - title: "Algorand"
         url: https://www.algorand.com
-        logo: assets/img/clients/Algorand.jpg
+        logo: assets/img/clients/Algorand.png
       - title: "Quant Island"
         url: https://quantisland.com
         logo: assets/img/clients/Quantisland.png
