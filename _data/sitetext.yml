@@ -142,18 +142,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      # - title: "envato"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/envato.jpg
-      # - title: "designmodo"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/designmodo.jpg
-      # - title: "themeforest"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/themeforest.jpg
-      # - title: "Creative Market"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/creative-market.jpg
+      - title: "Domani"
+        url: https://domani.finance
+        logo: assets/img/clients/Domani.png
+      - title: "Algorand"
+        url: https://www.algorand.com
+        logo: assets/img/clients/Algorand.jpg
+      - title: "Quant Island"
+        url: https://quantisland.com
+        logo: assets/img/clients/Quantisland.png
+      - title: "Sinagpore Fintech Association"
+        url: https://singaporefintech.org
+        logo: assets/img/clients/sfa-logo-web2.png
 
   team:
     title: "About us"

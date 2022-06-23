@@ -22,7 +22,7 @@ email: qisiteforms@quantisland.com #this is also the email contact forms will go
 description: "Quantitative Finance services for Venture Capitalists and Web3 Startups"
 author: Marco Marchioro
 logo: #optional, defaults to site title
-  path: assets\img\clients\Logo_Left_Of_Text.png
+  path: assets\img\Logo_Left_Of_Text.png
   height: 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
