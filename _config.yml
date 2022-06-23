@@ -14,12 +14,12 @@
 #theme: jekyll-agency
 remote_theme: mmarchioro/agency-jekyll-theme
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quantisland.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Quant Island
 email: qisiteforms@quantisland.com #this is also the email contact forms will go to
-description: "Quantitative Finance services for Venture Capitalists and Web3 Startups"
+description: "Quantitative Consulting for Venture Capitalists and Web3 Companies"
 author: Marco Marchioro
 logo: #optional, defaults to site title
   path: assets\img\Logo_Left_Of_Text.png
