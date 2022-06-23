@@ -33,10 +33,25 @@ We do not collect any data about you or use any cookies.
 
 We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
 
+**ABOUT THIS WEBSITE**
+
+- This website was built using [the Jekyll project](https://jekyllrb.com/) 
+- We used the [Agency Jekyll Theme](https://www.raviriley.com/agency-jekyll-theme) gently developed by [Ravi Riley](https://www.raviriley.com)
+- The website is hosted on [GitHub pages](https://pages.github.com)
+- The contact form functionality is powered by [Formspree](https://formspree.io/)
+- Some of this website pictures were freely, i.e. properly licensed without payment, taken from [Pixabay](https://pixabay.com)
+
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+For more information about our privacy practices or if you have questions, please contact us by email at <a href="/#contact">using the contact form in the main page</a>.
 
-**PHOTOS AND IMAGES**
 
-Note that some of this website pictures were freely, i.e. properly licensed without payment, taken from [Pixabay](https://pixabay.com)
+## DISCLAIMER
+
+The material in this website is presented solely for informational and entertainment purposes. Crypto currencies, tokens, smart contracts, and blockchains in general involve substantial risk of money loss and is not suitable for every investor. Like all other financial markets, there are substantial risks in operating in the crypto markets, which may work against you, leading to large losses.
+
+
+Use all trading strategies and charts at your own risk. Any content on this website should not be relied upon as advice, or construed as providing recommendations of any kind. It is your responsibility to confirm and decide which trades to make or which smart contracts to use. Trade only with risk capital; that is, trade with money, tokens, and crypto-currencies that, if lost, will not adversely impact your lifestyle and your ability to meet your financial obligations. Past results are no indication of future performance. In no event should the content of this website be construed as an express or implied promise or guarantee. The authors of this website are not responsible for losses incurred as a result of using any of our charts or trading strategies. Loss-limiting strategies such as stop loss orders may not be effective because market conditions or technological issues may make it impossible to execute such orders. Likewise, strategies using combinations of options and/or futures positions such as “spread” or “straddle” trades may be just as risky as simple long and short positions. Information provided in this website is intended solely for informational purposes and is obtained from sources believed to be reliable. Information is in no way guaranteed.
+
+
+No guarantee of any kind is implied, or possible, where projections of future conditions are attempted. None of the content published on this website constitutes a recommendation that any particular token, portfolio of tokens, smart contract, transaction, or investment strategy is suitable for any specific person. None of the information providers or our affiliates will advise you personally concerning the nature, potential, value or suitability of any particular security, portfolio of securities, transaction, investment strategy or other matter.
