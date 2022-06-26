@@ -61,46 +61,35 @@ en: &DEFAULT_EN
 
       ### Main areas of the assessment
 
+      Just a short list of the activities involved
+
       - Review of the quantitative models currently used by the company.
 
       - Revision of the data pipeline that transforms the raw input data into the model outputs. 
-      (This includes the handling of data cleaning and outlier detection, the pre-processing phase, the model training and its evaluation.)
 
       - Gauge the processes of creating/deploying existing or new models from the prototype stage to the production environment.
 
       - Consider what is the impact of the market volatility on the the company revenues. 
 
-      - Meet the research-and-development team, in order to identify if and what are the missing human resources, 
-      how to improve the team dynamics, or what kind of quantitative training may benefit the team.
-
-      - Interview new high-level candidates to be hired for key quantitative roles
+      - ... and more ...
 
 
 
       ### For web3/crypto companies
 
-      - Review the tokenomics. 
-
-      - Advise on which blockchain(s) launch the project.
+      - Review the tokenomics and advise on which blockchain(s) launch the project.
 
       - Help to optimize the time-to-market of token operations.
 
       - Review and investigate the use non-fungible tokens (NFTs).
 
-      - Help the team to find/improve the token utility, in order to increase its value.
-
       - Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
-
-      - Review the company token offering on both centralized and decentralized exchanges.
-
-      - Consider new ways of improving the tokenomics.
-
-      - Evaluate what is the impact of using oracles (being them implicit or explicit) on the smart contracts.
 
       - Assess the quantitative vulnerabilities, such as an arbitrage attacks.
 
       - Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
 
+      - ... and more ...
 
       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">For more Info</a>
 
