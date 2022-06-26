@@ -14,9 +14,8 @@ en: &DEFAULT_EN
     title: Unleash the combined power of human experience and AI
     text: Quant Consulting
     body: >
-      Merging expertise in traditional quantitative finance and AI applied to web3/blockchain technologies. 
+      Merging expertise in traditional quantitative finance and web3/blockchain technologies. 
       From strategic support when investing in a web3 company, 
-      over short projects focused on specific activities, 
       to the full creation of Quantitative/AI analytics for your systems 
       –-- we provide solutions based on the detailed understanding of your business situation.
     button: Contact Us
@@ -30,25 +29,23 @@ en: &DEFAULT_EN
       - title: "Venture Capitalists"
         icon: fas fa-user-tie #find more at https://fontawesome.com/icons
         desc: >
-          We offer a *Quantitative Due Diligence* process to better gauge the value of a startup before a round of investment. 
-          This *independent* action is performed to ascertain how well a company is doing with respect to quantitative 
-          matters. For web3 companies both the tokenomics and the smart contracts are revised. When possible, 
-          an estimation of the company tokens is attempted
+          We offer independent *Quantitative Due Diligence* process to better gauge the value of a 
+          startup before a round of investment. 
+          For web3/blockchain companies we revise both the tokenomics and the smart contracts. 
+          When possible, an estimation of the company token is attempted
       - title: "Startups"
         icon: fas fa-user-ninja
         desc: >
-          We work with enthusiastic brand-new companies and help them accelerate their growth. 
-          We help to set up, or revise, the processes of creating and deploying existing or new models 
-          from the prototype stage to the production environment. For web3 startups we assist in the creation
-          of a sustainable tokenomics, gauging the usage pf fungible and non-fungible tokens
-      - title: "Web3 companies"
+          We help enthusiastic brand-new companies to accelerate their growth. 
+          We assist in setting up, or revise, the process of creating and deploying quantitative models 
+          from the prototype stage to the production environment. For web3 startups we support in the creation
+          of smart contracts and  a sustainable tokenomics.
+      - title: "Estabilshed companies"
         icon: fas fa-link
         desc: >
-          For succesfull companies in the web3 world we provide *model validation* and audit smart contracts 
-          (especially on the Algorand blockchain). We were involved in DeFi before it was cool and we are in
-          a unique position to look ahead to the next big thing.
-          We can also help in setting up a risk-management systems that keeps into consideration the extreme 
-          volatility of this market niche.
+          We provide *model validation* and audit smart contracts. 
+          We were involved in DeFi before it was cool, so that we are in a unique position to look ahead to the next big thing.
+          We can also help in setting up the quantitative and software side of custom risk-management systems
 
   about:
     title: "Due Diligence"
@@ -134,14 +131,14 @@ en: &DEFAULT_EN
       - title: "The StatPro Years"
         year: "2000-2013"
         desc: >
-          Marco covers research and development roles in [StatPro](https://www.confluence.com/statpro/), 
+          [Marco](https://www.marchioro.org) covers research and development roles in [StatPro](https://www.confluence.com/statpro/), 
           mostly working on the quantitative side of the risk and pricing engine
         image: assets/img/timeline/2-statpro.jpg
         alt:
       - title: "Quant Island is born"
         year: "2013"
         desc: >
-          [Marco Marchioro](https://www.marchioro.org) creates Quant Island Pte. Ltd., bringing quantitative 
+          [Marco](https://www.marchioro.org) creates Quant Island Pte. Ltd., bringing quantitative 
           finance to Singapore and South-East Asia. Consulting is soon extend to Hong Kong and Vietnam
         image: assets/img/timeline/3-quantisland.png
         alt: image alt text
@@ -149,7 +146,7 @@ en: &DEFAULT_EN
         year: "2018-present"
         desc: >
           [Marco](https://www.marchioro.org) meets [Silvio (Micali)](https://en.wikipedia.org/wiki/Silvio_Micali) 
-          in Singapore and soon after participates in the deployment of the [Algorand](https://www.algorand.com) testnet. 
+          in Singapore and soon after participates to the deployment of the [Algorand](https://www.algorand.com) testnet. 
           The main consulting works are shifted to blockchain, [DeFi](https://domani.finance) and Web3 technologies
         image: assets/img/timeline/4-algorand.png
         alt: image alt text
