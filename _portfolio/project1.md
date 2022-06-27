@@ -73,6 +73,7 @@ To avoid confusion, the quantitative due diligence process does not perform the 
 - A full security audit
 
 
+
 ### What are the documents that are obtained from the due diligence?
 
 The results of the quantitative due diligence are two documents, one private to the 
@@ -89,4 +90,4 @@ The public report is typically shorter and is usually a summary of the findings,
 
 
 
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/services/due-diligence.html">For more Info</a>
+[For more Info](/services/due-diligence.html){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}

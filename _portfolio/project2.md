@@ -42,5 +42,5 @@ Hence we can guide you to understand how to use the best blockchain to date.
 
 
 
+[For more Info](/services/algorand.html){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
 
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/services/algorand.html">For more Info</a>
