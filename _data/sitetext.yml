@@ -91,6 +91,8 @@ en: &DEFAULT_EN
 
       - ... and more ...
 
+
+
       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">For more Info</a>
 
     section: about

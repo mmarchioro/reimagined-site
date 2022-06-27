@@ -1,17 +1,10 @@
 ---
+layout: page
 title: Quantitative Due Diligence
-subtitle: An independent company evaluation with respect to quantitative (finance) matters.
-image: assets/img/portfolio/01-diligence-full.png
-alt: A far-west diligence
-
-caption:
-  title: Diligence
-  subtitle: An independent company evaluation
-  thumbnail: assets/img/portfolio/01-diligence-thumbnail.png
-  link: /services/due-diligence.html
 ---
 
-### What is it?
+# Quantitative Due Diligence
+
 
 The full service name is: quantitative investigation carried out with due diligence. 
 The quantitative due diligence, or quantitative audit, is the voluntary and independent processes performed 
@@ -87,6 +80,3 @@ The private report typically contains the full audit details:
 
 The public report is typically shorter and is usually a summary of the findings, without going into the details.
 
-
-
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/services/due-diligence.html">For more Info</a>

@@ -16,13 +16,14 @@ remote_theme: mmarchioro/agency-jekyll-theme
 
 url: "https://quantisland.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
+page_excerpts: true
 
 title: Quant Island
 email: qisiteforms@quantisland.com #this is also the email contact forms will go to
 description: "Quantitative Consulting for Venture Capitalists and Web3 Companies"
 author: Marco Marchioro
 logo: #optional, defaults to site title
-  path: assets\img\Logo_Left_Of_Text.png
+  path: /assets/img/Logo_Left_Of_Text.png
   height: 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
@@ -42,14 +43,13 @@ markdown: kramdown
 formspree_form_path: "f/xnqwrygw"
 
 # Use https://realfavicongenerator.net/ to generate your package
-favicon_package: "assets/favicon_package"
+favicon_package: "/assets/favicon_package"
 
 plugins:
   - jekyll-remote-theme
 
-# Location of pdf files
 defaults:
   - scope:
-      path: "assets/pdf"
+      path: ""
     values:
-      image: false
+      layout: default

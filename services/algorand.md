@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Algorand
 subtitle: The blockchain built to last
 image: assets/img/portfolio/02-algorand-full.jpg
@@ -8,10 +9,11 @@ caption:
   title: Algorand
   subtitle: All the help you need is here
   thumbnail: assets/img/portfolio/02-algorand-thumbnail.jpg
-  link: /services/algorand.html
 ---
 
-### Is Algorand the better blockchain?
+# Algorand
+
+**Is Algorand the better blockchain?**
 
 At Quant Island we think so and we are not afraid to say it.
 
@@ -40,7 +42,3 @@ Admittedly it has a moderlately steep curve to learn about all its details.
 At Quant Island we are up to date with the latest news on the Algorand blockchain and we have a load of experience with the blockchain itself. 
 Hence we can guide you to understand how to use the best blockchain to date.
 
-
-
-
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/services/algorand.html">For more Info</a>
