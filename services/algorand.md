@@ -42,3 +42,7 @@ Admittedly it has a moderlately steep curve to learn about all its details.
 At Quant Island we are up to date with the latest news on the Algorand blockchain and we have a load of experience with the blockchain itself. 
 Hence we can guide you to understand how to use the best blockchain to date.
 
+
+
+[Back to Services](/services){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+
