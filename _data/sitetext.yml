@@ -144,7 +144,11 @@ en: &DEFAULT_EN
           The main consulting works are shifted to blockchain, [DeFi](https://domani.finance) and Web3 technologies
         image: assets/img/timeline/4-algorand.png
         alt: image alt text
-    end: "Be Part <br> of Our <br> Story!"
+    end: >
+      [Be Part](#contact){:class="btn-primary js-scroll-trigger"}
+
+
+      [of Our Story!](#contact){:class="btn-primary js-scroll-trigger"}
 
   clients:
     section: clients
@@ -175,7 +179,7 @@ en: &DEFAULT_EN
     people:
       - name: "Marco Marchioro"
         role: "Chief Quantitative Analyst"
-        image: assets/img/team/marco-standing.jpg
+        image: assets/img/team/marco-shirt-smile.jpg
         social:
           - url: https://www.linkedin.com/in/marchioro/
             icon: fab fa-linkedin-in
