@@ -46,6 +46,8 @@ en: &DEFAULT_EN
           We provide *model validation* and audit smart contracts. 
           We were involved in DeFi before it was cool, so that we are in a unique position to look ahead to the next big thing.
           We can also help in setting up the quantitative and software side of custom risk-management systems
+    body: >
+      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland/15min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
 
   about:
     title: "Due Diligence"
@@ -92,7 +94,7 @@ en: &DEFAULT_EN
 
 
 
-      [For more Info](#contact){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland/15min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
 
     section: about
 
