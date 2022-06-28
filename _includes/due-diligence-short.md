@@ -21,7 +21,6 @@ Just a short list of the activities involved
 - Help to optimize the time-to-market of token operations.
 - Review and investigate the use non-fungible tokens (NFTs).
 - Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
-
 - Assess the quantitative vulnerabilities, such as an arbitrage attacks.
 - Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
 - ... and more ...

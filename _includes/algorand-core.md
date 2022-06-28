@@ -24,8 +24,8 @@ for which we possesed a genesis block!
 ### How Quant Island help with Algorand?
 
 While Algorand is a great blockchain for people that are well versed in the world of cryptography, it might not be straightforward 
-for the traditional developer toi understand.
-Admittedly it has a moderlately steep curve to learn about all its details.
+for the traditional developer to understand.
+Admittedly it has a steep curve, so that learning about all its details is not a quick task.
 
 At Quant Island we are up to date with the latest news on the Algorand blockchain and we have a load of experience with the blockchain itself. 
 Hence we can guide you to understand how to use the best blockchain to date.
@@ -37,3 +37,9 @@ Hence we can guide you to understand how to use the best blockchain to date.
 - Revise the Tokenomics and the NFTs
 - Review the connection between Algorand and the other blockchain
 - Advise when a side-chain is more appropriate for your use case
+
+
+Also we can advise on how to integrate Algorand in your workflow
+
+
+    

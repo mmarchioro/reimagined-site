@@ -8,6 +8,7 @@ caption:
   title: Validation
   subtitle: From statistics to machine learning
   thumbnail: /assets/img/portfolio/04-validation-thumbnail.jpg
+  link: /services/model-validation.html
 ---
 
 

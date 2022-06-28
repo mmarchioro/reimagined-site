@@ -1,22 +1,21 @@
 
-Smart contracts are software transaction protocols that can only be executed if are validated by the blockchain. They
-can perform a number of different functions, however, typically they act on the blockchain ledger, either on a given token or 
-on some other state. Presently, smart contracts are serving a wide range of use cases such as supply chain management, ICOs, and electoral voting. 
+Smart contracts are software transaction protocols that can only be executed if are validated by their respective blockchain. 
+They can perform a number of different functions, however, typically they act on the blockchain ledger, either on a given token or 
+on some other state. 
+Presently, smart contracts are serving a wide range of use cases such as supply chain management, ICOs, and electoral voting. 
 
 The problem with smart contracts, regardless of the name, is that they are not *smart*. They are just bits of code that run 
 on top of the blockchain state. They only execute the code that was written for them, not was intended for them.
 
 
-## Security audit
-
 #### If it's just code, why don't I just take a random developer to write them?
 
 It is true that smart contracts are just lines of code, however they are written in the immutability *stone* that is the blockchain.
-The main difference with respect to the standard programming are:
+The main difference with respect to standard coding are:
 
-- Smart contracts may have the capacity to transfer large amount of tokens/coins/assets. If they are not well written some of the assets may be lost forever
+- Smart contracts may have the capacity to transfer large amount of tokens/coins/assets. If they are not well written some of the assets may be lost forever. Or, even worse, assets may not go to the intended recipient.
 - It is in general not possible, or not advisable, to update the *software* inside a smart contract
-- The behaviour of smart contracts on the developer blockchain, or even a testnet, might be very different from the action on the main-net blockchain
+- The behaviour of smart contracts on the developer blockchain, or even a testnet, might be very different from the actual actions on the main-net blockchain
 - For blockchain that fork (Algorand is not one of them), the smart contract might behave differently on the two forks
 
 
@@ -41,6 +40,7 @@ Security is one of the formidable concerns for smart contract implementation in 
 
 Enterprises are troubled regarding smart contract implementation, considering its irreversible nature. Furthermore, you also have the risk of losing the whole contract and associated assets due to security vulnerabilities in smart contracts. Therefore, the smart contract audit becomes an important requirement in present times for the following reasons.
 
+At Quant Island we can help in the design and the audit of smart contracts, on most blockchains.
 
 *Note*: some of the text in this page has been modified from the post: [What Is A Smart Contract Audit?](https://101blockchains.com/smart-contract-audit/)
 

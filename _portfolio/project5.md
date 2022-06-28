@@ -8,6 +8,7 @@ caption:
   title: Trading
   subtitle: Trend following, mean reverting, ...
   thumbnail: /assets/img/portfolio/05-trading-thumbnail.png
+  link: /services/trading-models.html
 ---
 
 {% include work-in-progress.md %}
