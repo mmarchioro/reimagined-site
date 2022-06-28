@@ -205,7 +205,9 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Quant Island is a Singapore-based remote-first company. (In the form below starred* items are required.)"
+    text: >
+      [Schedule a 30-minute complementary meeting](https://calendly.com/quantisland/30min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -225,8 +227,8 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://twitter.com/marchioro_marco
         icon: "fab fa-twitter"
-      - url: https://github.com/mmarchioro/
-        icon: "fab fa-github"
+      - url: https://calendly.com/quantisland/30min
+        icon: "fa fa-calendar-alt"
       - url: https://medium.com/@quantisland
         icon: "fab fa-medium"
       - url: https://discordapp.com/users/quantisland#1903
