@@ -29,16 +29,16 @@ en: &DEFAULT_EN
       - title: "Venture Capitalists"
         icon: fas fa-user-tie #find more at https://fontawesome.com/icons
         desc: >
-          We offer independent *Quantitative Due Diligence* process to better gauge the value of a 
+          We offer an **independent** Quantitative Due Diligence process to better gauge the value of a 
           startup before a round of investment. 
           For web3/blockchain companies we revise both the tokenomics and the smart contracts. 
-          When possible, an estimation of the company token is attempted
+          An estimation of the company token is attempted
       - title: "Startups"
         icon: fas fa-user-ninja
         desc: >
           We help enthusiastic brand-new companies to accelerate their growth. 
           We assist in setting up, or revise, the process of creating and deploying quantitative models 
-          from the prototype stage to the production environment. For web3 startups we support in the creation
+          from the prototype stage to the production environment. For web3 startups we support the creation
           of smart contracts and  a sustainable tokenomics.
       - title: "Estabilshed companies"
         icon: fas fa-link
@@ -47,14 +47,15 @@ en: &DEFAULT_EN
           We were involved in DeFi before it was cool, so that we are in a unique position to look ahead to the next big thing.
           We can also help in setting up the quantitative and software side of custom risk-management systems
     body: >
-      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland/15min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" target="_blank"}
 
   about:
     title: "Due Diligence"
     text: >
-      Of all our services, the "Quantitative investigation carried out with due diligence" is defnitely the most popular
+      Of all our services, the "Quantitative Investigation carried out with Due Diligence" is the most popular
     body: >
       ## What is the Quantitative Due Diligence?
+
 
       This process is the *voluntary* and *independent* procedure performed to ascertain how well a company, 
       usually a startup, is doing with respect to quantitative (finance) matters. Depending on the scale of the
@@ -72,11 +73,13 @@ en: &DEFAULT_EN
 
       Consider what is the impact of the market volatility on the the company revenues. 
 
+
       ... and more ...
 
 
 
       ### For web3/crypto companies
+
 
       Review the tokenomics and advise on which blockchain(s) launch the project.
 
@@ -90,11 +93,14 @@ en: &DEFAULT_EN
 
       Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
 
+
       ... and more ...
 
 
+      [Go to the due-diligence detailed page](/services/due-diligence.html)
 
-      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland/15min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+
+      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" target="_blank"}
 
     section: about
 
@@ -108,7 +114,8 @@ en: &DEFAULT_EN
 
   timeline:
     title: "History"
-    text: "Where are we coming from and where are we going"
+    text: >
+      “History doesn't repeat itself, but it does rhyme.” ― Mark Twain
     section: timeline
     # left is the default
     #start_align: "left"
@@ -211,7 +218,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     text: >
-      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland/15min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" target="_blank"}
 
     section: contact
     name: "Name*"
@@ -232,7 +239,7 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://twitter.com/marchioro_marco
         icon: "fab fa-twitter"
-      - url: https://calendly.com/quantisland/15min
+      - url: https://calendly.com/quantisland
         icon: "fa fa-calendar-alt"
       - url: https://medium.com/@quantisland
         icon: "fab fa-medium"
