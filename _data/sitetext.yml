@@ -205,7 +205,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     text: >
-      [Schedule a 30-minute complementary meeting](https://calendly.com/quantisland/30min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
+      [Schedule a 15-minute complementary meeting](https://calendly.com/quantisland/15min){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
 
     section: contact
     name: "Name*"
@@ -226,7 +226,7 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://twitter.com/marchioro_marco
         icon: "fab fa-twitter"
-      - url: https://calendly.com/quantisland/30min
+      - url: https://calendly.com/quantisland/15min
         icon: "fa fa-calendar-alt"
       - url: https://medium.com/@quantisland
         icon: "fab fa-medium"
