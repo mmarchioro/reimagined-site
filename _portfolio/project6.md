@@ -10,8 +10,7 @@ caption:
   thumbnail: /assets/img/portfolio/06-risk-thumbnail.jpg
 ---
 
-# Work in progress
+{% include work-in-progress.md %}
 
-We are currently revising this website. Please be patient and come back in a few days.
 
 

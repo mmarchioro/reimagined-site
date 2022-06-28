@@ -8,9 +8,12 @@ caption:
   title: Smart Contracts
   subtitle: Design anew or check existing ones
   thumbnail: /assets/img/portfolio/03-smart-contracts-thumbnail.jpg
+  link: /services/smart-contracts.html
 ---
 
-# Work in progress
 
-We are currently revising this website. Please be patient and come back in a few days.
+{% include smart-contracts-core.md %}
+
+
+[For more Info](/services/smart-contracts.html){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
 

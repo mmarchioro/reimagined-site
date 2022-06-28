@@ -10,7 +10,7 @@ caption:
   thumbnail: /assets/img/portfolio/04-validation-thumbnail.jpg
 ---
 
-# Work in progress
 
-We are currently revising this website. Please be patient and come back in a few days.
+{% include work-in-progress.md %}
+
 

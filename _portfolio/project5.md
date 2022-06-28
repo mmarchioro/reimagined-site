@@ -10,8 +10,6 @@ caption:
   thumbnail: /assets/img/portfolio/05-trading-thumbnail.png
 ---
 
-# Work in progress
-
-We are currently revising this website. Please be patient and come back in a few days.
+{% include work-in-progress.md %}
 
 
