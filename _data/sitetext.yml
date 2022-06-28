@@ -106,7 +106,8 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Services"
-    text: "It is no longer possible to run a credible business without the power of quantitative analytics. **Marco Marchioro**"
+    text: >
+      “It is no longer possible to run a credible business without the power of quantitative analytics.” ― Marco Marchioro
     section: portfolio
     foot: >
       [Detailed Service Info](/services){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
