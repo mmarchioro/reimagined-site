@@ -61,35 +61,34 @@ en: &DEFAULT_EN
 
       ### Main areas of the assessment
 
-      Just a short list of the activities involved
 
-      - Review of the quantitative models currently used by the company.
+      Review of the quantitative models currently used by the company.
 
-      - Revision of the data pipeline that transforms the raw input data into the model outputs. 
+      Revision of the data pipeline that transforms the raw input data into the model outputs. 
 
-      - Gauge the processes of creating/deploying existing or new models from the prototype stage to the production environment.
+      Gauge the processes of creating/deploying existing or new models from the prototype stage to the production environment.
 
-      - Consider what is the impact of the market volatility on the the company revenues. 
+      Consider what is the impact of the market volatility on the the company revenues. 
 
-      - ... and more ...
+      ... and more ...
 
 
 
       ### For web3/crypto companies
 
-      - Review the tokenomics and advise on which blockchain(s) launch the project.
+      Review the tokenomics and advise on which blockchain(s) launch the project.
 
-      - Help to optimize the time-to-market of token operations.
+      Help to optimize the time-to-market of token operations.
 
-      - Review and investigate the use non-fungible tokens (NFTs).
+      Review and investigate the use non-fungible tokens (NFTs).
 
-      - Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
+      Audit the most important smart contracts from the quantitative point of view (note that this is not the same as a security audit).
 
-      - Assess the quantitative vulnerabilities, such as an arbitrage attacks.
+      Assess the quantitative vulnerabilities, such as an arbitrage attacks.
 
-      - Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
+      Investigate on possible black-swan scenarios (for example Luna/UST had many vulnerabilities).
 
-      - ... and more ...
+      ... and more ...
 
 
 
@@ -164,7 +163,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/SFA-logo-web2.png
 
   team:
-    title: "About us"
+    title: "People"
     text: "We’ve spent years working as quants, building a reputation as an industry leader in solving problems using quatitative methods"
     subtext: >
       While the main consultant for Quant Island is only one, namely *Marco Marchioro*, often the job requires the help 
