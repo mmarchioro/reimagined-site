@@ -11,11 +11,18 @@ title: Algorand
 
 ---
 
+<br>
 
 
 ## Smart contracts 
 
 {% include smart-contracts-core.md %}
+
+
+
+
+
+---
 
 
 

@@ -5,14 +5,14 @@ image: /assets/img/portfolio/03-validation-full.jpg
 alt: The cogs of a very complicated mechanism
 
 caption:
-  title: Validation
+  title: Model Validation
   subtitle: From statistics to machine learning
   thumbnail: /assets/img/portfolio/03-validation-thumbnail.jpg
   link: /services/model-validation.html
 ---
 
 
-{% include work-in-progress.md %}
+{% include model-validation-core.md %}
 
 
 

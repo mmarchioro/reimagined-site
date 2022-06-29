@@ -14,7 +14,7 @@ If you want your website to be at `YOUR-USERNAME.github.io`, that's what you mus
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
 
 
-### Development run 
+## Development run 
 
 The actual theme code [can be found here](https://github.com/raviriley/agency-jekyll-theme)
 
@@ -42,3 +42,7 @@ git config user.email "10060602+mmarchioro@users.noreply.github.com"
 git commit --amend --reset-author     
 ```
 
+### Markdown
+
+
+According to the Markdown elements outlined in the original design document, [The Basic Syntax](https://www.markdownguide.org/basic-syntax/) post is a good start to learn markdown.
