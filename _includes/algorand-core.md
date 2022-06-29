@@ -1,6 +1,6 @@
 
 
-**Is Algorand the better blockchain?**
+### Is Algorand the better blockchain?
 
 
 At Quant Island we think so and we are not afraid to say it.
@@ -21,7 +21,7 @@ for which we possesed a genesis block!
 - It is based on a solid cryptographic foundation (and we wouldn't expect anything less from Silvio)
 - it is not *going to the moon*, as the [Algorand foundation](https://algorand.foundation) is more interested in ecosystem than having a high-priced token 
 
-### How Quant Island help with Algorand?
+### How Quant Island can help with Algorand?
 
 While Algorand is a great blockchain for people that are well versed in the world of cryptography, it might not be straightforward 
 for the traditional developer to understand.

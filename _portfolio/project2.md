@@ -6,7 +6,7 @@ alt: The Algorand logo
 
 caption:
   title: Algorand
-  subtitle: All the help you need is here
+  subtitle: From tokens to smart contracts
   thumbnail: /assets/img/portfolio/02-algorand-thumbnail.jpg
   link: /services/algorand.html
 ---

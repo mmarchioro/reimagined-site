@@ -1,19 +1,23 @@
 ---
-title: Smart Contracts
-subtitle: Design anew or check existing ones
-image: /assets/img/portfolio/03-smart-contracts-full.jpg
-alt: Two people talking about a smart contract
+title: Model Validation
+subtitle: From statistics to machine learning
+image: /assets/img/portfolio/03-validation-full.jpg
+alt: The cogs of a very complicated mechanism
 
 caption:
-  title: Smart Contracts
-  subtitle: Design anew or check existing ones
-  thumbnail: /assets/img/portfolio/03-smart-contracts-thumbnail.jpg
-  link: /services/smart-contracts.html
+  title: Validation
+  subtitle: From statistics to machine learning
+  thumbnail: /assets/img/portfolio/03-validation-thumbnail.jpg
+  link: /services/model-validation.html
 ---
 
 
-{% include smart-contracts-core.md %}
+{% include work-in-progress.md %}
 
 
-[For more Info](/services/smart-contracts.html){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}
 
+--- 
+
+
+
+[For more Info](/services/model-validation.html){:class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"}

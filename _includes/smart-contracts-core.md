@@ -8,7 +8,7 @@ The problem with smart contracts, regardless of the name, is that they are not *
 on top of the blockchain state. They only execute the code that was written for them, not was intended for them.
 
 
-#### If it's just code, why don't I just take a random developer to write them?
+### If it's just code, why don't I just take a random developer to write them?
 
 It is true that smart contracts are just lines of code, however they are written in the immutability *stone* that is the blockchain.
 The main difference with respect to standard coding are:
@@ -19,7 +19,7 @@ The main difference with respect to standard coding are:
 - For blockchain that fork (Algorand is not one of them), the smart contract might behave differently on the two forks
 
 
-## Security audit
+### Security audit
 
 The audit process for a smart contract focuses on scrutiny of the code used for underwriting the terms and conditions in the smart contract itslef. With the help of such an audit, smart contract developers could easily identify the vulnerabilities and bugs before the deployment of smart contracts. 
 
@@ -34,7 +34,7 @@ Generally, third-party entities carry out smart contract audits to ensure a thor
 
 It is quite important to test the code thoroughly before deploying the smart contract. Why? Once you write the smart contract to the blockchain, it is impossible to change the code. Deploying smart contracts without proper audits could result in untoward circumstances such as discrepancies in the desired performance of the contract. At the same time, inadequate audit processes could also land you up with risks such as loss of personal data or data theft. 
 
-## Smart contract design
+### Smart contract design
 
 Security is one of the formidable concerns for smart contract implementation in present times. The concerns of inefficiency, security issues, and misbehavior could lead to extremely high additional costs in implementing smart contracts on a blockchain network.
 

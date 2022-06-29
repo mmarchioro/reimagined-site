@@ -1,13 +1,13 @@
 ---
 title: Quantitative Due Diligence
 subtitle: An independent company evaluation with respect to quantitative (finance) matters.
-image: /assets/img/portfolio/01-notebook-full.jpg
+image: /assets/img/portfolio/01-due-diligence-full.jpg
 alt: A far-west diligence
 
 caption:
-  title: Diligence
+  title: Due Diligence
   subtitle: An independent company evaluation
-  thumbnail: /assets/img/portfolio/01-notebook-thumbnail.jpg
+  thumbnail: /assets/img/portfolio/01-due-diligence-thumbnail.jpg
   link: /services/due-diligence.html
 ---
 
