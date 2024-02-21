@@ -22,7 +22,7 @@ The actual theme code [can be found here](https://github.com/raviriley/agency-je
 bundle exec jekyll serve --trace --watch --livereload --strict_front_matter
 ```
 
-If you get some eeror about `webrick`, try the following
+If you get some errors about `webrick`, try the following
 
 ```
 bundle add webrick
