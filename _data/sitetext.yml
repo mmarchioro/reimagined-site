@@ -187,7 +187,7 @@ en: &DEFAULT_EN
     people:
       - name: "Marco Marchioro"
         role: "Chief Quantitative Analyst"
-        image: assets/img/team/marco-shirt-smile.jpg
+        image: assets/img/team/marco.jpg
         social:
           - url: https://www.linkedin.com/in/marchioro/
             icon: fab fa-linkedin-in
